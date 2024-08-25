@@ -51,8 +51,8 @@
 ## 🔋 Github Stats & 💻 Most Used Languages
 <!--[![Boa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboa2005)](https://github.com/leeboa2005/github-readme-stats)-->
 <div style="display: flex; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeboa2005&show_icons=true&theme=radical" alt="Boa's GitHub stats" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeboa2005&layout=compact&theme=radical"  height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeboa2005&show_icons=true&theme=radical" alt="Boa's GitHub stats" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeboa2005&layout=compact&theme=radical"  height="170px" />
 </div>
 <!--## 📊 Activity Graph-->
 <br>
