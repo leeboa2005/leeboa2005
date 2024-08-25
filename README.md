@@ -1,6 +1,6 @@
 <!--### Hi there, Welcome to my Github 👋-->
 
-<img src="https://github.com/user-attachments/assets/49fcfcab-88f7-4a01-99f4-5e6b02774128" width="700px" style="margin:0 auto;">
+<img src="https://github.com/user-attachments/assets/49fcfcab-88f7-4a01-99f4-5e6b02774128" width="800px" style="margin:0 auto;">
 
 <table align="center">
   <tr>
